@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "175801569577",
+    "project_id": "koleksiku-punyaku",
+    "storage_bucket": "koleksiku-punyaku.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175801569577:android:66fa207764abb6e8ffe738",
+        "android_client_info": {
+          "package_name": "com.example.koleksiku_punyaku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGTrfJyA4wzGdEi7buR3JnDb6KWL-paz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
